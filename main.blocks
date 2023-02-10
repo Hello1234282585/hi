@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="zK5lU92#m59DvH{L10!7" x="0" y="0"></block><block type="serial_writestring" id="b%?Fa2?24YY=4LZWKXI8" disabled="true" x="310" y="81"><value name="text"><shadow type="text" id="OGjS0^c/2I$kPo|UpMsi" disabled="true"><field name="TEXT"></field></shadow></value></block><block type="game_create_sprite" id="s!BoU.|al[]HX69`@H#}" disabled="true" x="15" y="154"><value name="x"><shadow type="math_number" id="~B$wW[cTZ`k!:(S@r92z" disabled="true"><field name="NUM">2</field></shadow></value><value name="y"><shadow type="math_number" id="I.1qh1u)8FT`Z|J{XAZQ" disabled="true"><field name="NUM">2</field></shadow></value></block><block type="device_print_message" id="VZxj=]@[lMQLs2NA^M31" disabled="true" x="75" y="225"><value name="text"><shadow type="text" id="(o1MT=ovWnbjA=BOTQbH" disabled="true"><field name="TEXT">Hello!</field></shadow></value></block><block type="device_build_image" id="t7mF+*w4w13ujIEibhiH" disabled="true" x="454" y="313"><field name="LEDS">`
+        # . # . # 
+        # . # . # 
+        # # # . . 
+        # . # . # 
+        # . # . #
+        `</field></block><block type="basic_show_arrow" id="G{n@ysN5lE^H#7U62PB}" disabled="true" x="5" y="509"><value name="i"><shadow type="device_arrow" id="L)iM~)22__W)+!rQ9c?y" disabled="true"><field name="arrow">ArrowNames.North</field></shadow></value></block></xml>
